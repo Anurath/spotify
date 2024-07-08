@@ -46,6 +46,14 @@ nav ul li{
 }
 .container{
     min-height:70vh;
+    background-color: black;
+    color:white;
+    font-family:Arial, sans-serif;
+    display:flex;
+    margin:23px auto;
+    border-radius:12px;
+    width:70%;
+    padding:12px;
 }
 #myProgressBar{
     width:80%;
