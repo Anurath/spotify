@@ -32,6 +32,7 @@ nav ul{
 
 nav ul li{
     padding:0px 10px;
+    cursor: pointer;
 }
 
 .bottom{
@@ -59,6 +60,7 @@ nav ul li{
 }
 #myProgressBar{
     width:80%;
+    cursor:pointer;
 }
 .icons{
     color:white;
@@ -104,8 +106,9 @@ nav ul li{
     position:absolute;
     left:10vw;
     color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .songInfo img{
     opacity:0;
-    transition:opacity 1s ease-in;
+    transition:opacity 0.3s ease-in;
 }
